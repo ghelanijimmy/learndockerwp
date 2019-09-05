@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66500c9c-1ba0-49e1-9c13-c6f03e3ec8ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../localdb/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/../localdb/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../localdb/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/../localdb/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../localdb/wpdocker/wp_options.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/../localdb/wpdocker/wp_options.ibd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/plugins/scripts/scripts.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/scripts/scripts.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +55,7 @@
       <workItem from="1567693567134" duration="105000" />
       <workItem from="1567693720688" duration="775000" />
       <workItem from="1567711163054" duration="387000" />
-      <workItem from="1567711594090" duration="1502000" />
+      <workItem from="1567711594090" duration="1569000" />
     </task>
     <servers />
   </component>

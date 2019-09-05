@@ -31,9 +31,7 @@ function scripts_page(){
 			<label for="headerscript">Header Scripts</label>
 			<textarea class="large-text" name="headerscript" id="headerscript"><?php print $header_scripts ?></textarea>
 			<label for="footerscript">Header Scripts</label>
-			<textarea class="large-text" name="footerscript" id="footerscript">
-				<?php print $footer_scripts ?>
-			</textarea>
+			<textarea class="large-text" name="footerscript" id="footerscript"><?php print $footer_scripts ?></textarea>
 			<input type="submit" name="scripts_update" value="UPDATE SCRIPTS" class="button button-primary">
 		</form>
 	</div>
