@@ -4641,7 +4641,7 @@ var FocusManager = wp.media.View.extend(/** @lends wp.media.view.FocusManager.pr
 			liveRegionsRoles = [ 'alert', 'status', 'log', 'marquee', 'timer' ];
 
 		/*
-		 * Don't hide scripts, elements that already have `aria-hidden`, and
+		 * Don't hide learnscripts, elements that already have `aria-hidden`, and
 		 * ARIA live regions.
 		 */
 		return ! (

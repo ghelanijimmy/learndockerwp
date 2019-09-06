@@ -19008,7 +19008,7 @@ function (_Component) {
 
       if (!isNavigationCandidate(target, keyCode, hasModifier)) {
         return;
-      } // In the case of RTL scripts, right means previous and left means next,
+      } // In the case of RTL learnscripts, right means previous and left means next,
       // which is the exact reverse of LTR.
 
 

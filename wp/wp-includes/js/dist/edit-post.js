@@ -2428,7 +2428,7 @@ var VIEW_AS_LINK_SELECTOR = '#wp-admin-bar-view a';
 var effects = {
   SET_META_BOXES_PER_LOCATIONS: function SET_META_BOXES_PER_LOCATIONS(action, store) {
     // Allow toggling metaboxes panels
-    // We need to wait for all scripts to load
+    // We need to wait for all learnscripts to load
     // If the meta box loads the post script, it will already trigger this.
     // After merge in Core, make sure to drop the timeout and update the postboxes script
     // to avoid the double binding.

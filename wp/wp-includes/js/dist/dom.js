@@ -508,7 +508,7 @@ function isEdge(container, isReverse, onlyVertical) {
 
   if (onlyVertical) {
     return true;
-  } // In the case of RTL scripts, the horizontal edge is at the opposite side.
+  } // In the case of RTL learnscripts, the horizontal edge is at the opposite side.
 
 
   var direction = computedStyle.direction;
